@@ -1,4 +1,4 @@
-/*ejemplo2: Área y circunferencia*/
+/*ejemplo 2 : area y circunferencia*/
 /*diseñar un algoritmo que calcule la longitud de la circunferencia y el área de un cı́rculo de radio dado.*/
 
 #include <stdio.h>
