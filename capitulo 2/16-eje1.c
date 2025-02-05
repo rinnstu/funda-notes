@@ -5,13 +5,9 @@ Posteriormente se muestra el contenido de la variable por la salida estándar.*/
 
 #include <stdio.h>
 int main () {
-    int mi_variable ;
-
-/* declaracion de la variable */
-/* recordar que antes de un scanf () siempre va un printf () */
-
-    printf ( " ingrese un número entero : " ) ; // escritura
-    scanf ( " %d " ,& mi_variable ) ;  // lectura
-    printf ( " %d ", mi_variable);
+    int mi_variable;
+    printf ("ingrese un número entero: "); // escritura
+    scanf ("%d",&mi_variable );  // lectura
+    printf ("%d",mi_variable);
     return 0;
 }
