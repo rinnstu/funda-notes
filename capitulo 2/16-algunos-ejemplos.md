@@ -1,5 +1,3 @@
-# 16. Algunos ejemplos
-En esta seccion se muestran algunos ejemplos de programas que contienen entrada y salida de datos. Ademas se presentan algunos ejemplos basicos en los que se utilizan tambien las estructuras de control.
 
 ## 16.1. Entrada y salida de datos con formato
 
