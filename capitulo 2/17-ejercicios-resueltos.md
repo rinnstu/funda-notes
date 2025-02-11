@@ -1,4 +1,3 @@
-# 17. Ejercicios resueltos
 
 ## 17.1. Reparando la nave
 Durante una batalla espacial, la nave de Darth Méndez se averió. Desafortunadamente, su seguro intergaláctico no cubre siniestros ocurridos en batallas, por lo que deberá pagar el arreglo con sus ahorros. Se le pide realizar un algoritmo que usando las variables costo de reparacion (correspondiente a lo que cuesta arreglar los daños de la nave) y ahorros (correspondiente a los ahorros de Darth Mendez) imprima por pantalla si puede pagar el arreglo *(mensaje : Tranki que podemos arreglarla)* o no *(mensaje : Siamo fuori, no podemos volver)*. Los mensajes deben ser
